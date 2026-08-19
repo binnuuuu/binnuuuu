@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Parupalli Binnu Chowdary 👋</h1>
+<h1 align="center">Hi, I'm Binnu Chowdary 👋</h1>
 
 <p align="center">
   <strong>Computer Science undergraduate at IIT Tirupati</strong><br>
@@ -11,7 +11,7 @@
   <a href="mailto:cs23b037@iittp.ac.in"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-About Me
+# About Me
 
 I'm a B.Tech. Computer Science and Engineering student at the Indian Institute of Technology Tirupati, graduating in 2027. My work sits at the intersection of AI/ML, backend engineering, computer vision, and full-stack development.
 
@@ -27,7 +27,7 @@ I'm a B.Tech. Computer Science and Engineering student at the Indian Institute o
 
 📍 Based at IIT Tirupati, India
 
-Experience
+# Experience
 
 Research Intern — Clemson University
 
@@ -49,7 +49,7 @@ Developing pipelines involving LLMs, RAG, document processing, and computer visi
 
 Integrating AI models with backend APIs and scalable application workflows
 
-Featured Projects
+# Featured Projects
 
 🧠 Cognitive Fatigue Data Consolidator
 
@@ -79,7 +79,7 @@ Technical Skills
 
 Area
 
-Technologies
+# Technologies
 
 Programming
 
