@@ -22,24 +22,6 @@ I'm a B.Tech. Computer Science and Engineering student at the **Indian Institute
 - 🤝 Open to **software engineering and AI/ML internships, research collaborations, full-time opportunities, and freelance projects**
 - 📍 Based at IIT Tirupati, India
 
-## Experience
-
-### Research Intern — Clemson University
-
-**Aug 2026 – Present**
-
-- Working with Prof. Kapil Chalil Madathil on modeling cognitive fatigue in human–AI teaming systems
-- Studying how fatigue affects human performance, workload, and trust in human–AI teams
-- Developing Python workflows for data processing and analysis and contributing to simulator development
-
-### Agentic AI Intern — DeepDristi Pvt. Ltd.
-
-**May 2026 – Present**
-
-- Building end-to-end AI-powered software systems for real-world applications
-- Developing pipelines involving LLMs, RAG, document processing, and computer vision
-- Integrating AI models with backend APIs and scalable application workflows
-
 ## Featured Projects
 
 ### 🧠 [Cognitive Fatigue Data Consolidator](https://github.com/binnuuuu/Cognitive-Fatigue-Data-Consolidator)
