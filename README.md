@@ -105,12 +105,6 @@ Tools & Platforms
 
 Git, Docker, Linux, Jupyter Notebook, Render, Figma
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=binnuuuu&show_icons=true&hide_border=true&theme=transparent" alt="Binnu's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnuuuu&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
-
-The language card reflects public repository composition, not overall proficiency.
 
 Let's Connect
 
