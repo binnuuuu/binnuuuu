@@ -63,15 +63,6 @@ An AI-powered patent analysis platform that ingests patent PDFs, extracts struct
 
 
 
-## GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=binnuuuu&show_icons=true&hide_border=true&theme=transparent" alt="Binnu's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnuuuu&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
-
-> The language card reflects public repository composition, not overall proficiency.
-
 ## Let's Connect
 
 I'm open to conversations about software engineering, applied AI, research, and collaborative projects.
@@ -83,4 +74,3 @@ I'm open to conversations about software engineering, applied AI, research, and 
 ---
 
 <p align="center"><em>Building intelligent systems with practical impact.</em></p>
-```
