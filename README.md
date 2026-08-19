@@ -11,111 +11,76 @@
   <a href="mailto:cs23b037@iittp.ac.in"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-# About Me
+## About Me
 
-I'm a B.Tech. Computer Science and Engineering student at the Indian Institute of Technology Tirupati, graduating in 2027. My work sits at the intersection of AI/ML, backend engineering, computer vision, and full-stack development.
+I'm a B.Tech. Computer Science and Engineering student at the **Indian Institute of Technology Tirupati**, graduating in 2027. My work sits at the intersection of **AI/ML, backend engineering, computer vision, and full-stack development**.
 
-🔬 Researching cognitive fatigue in human–AI teaming systems at Clemson University
+- 🔬 Researching **cognitive fatigue in human–AI teaming systems** at Clemson University
+- 🤖 Building end-to-end agentic AI systems involving **LLMs, RAG, document processing, and computer vision**
+- 🧠 Interested in trustworthy human–AI collaboration, intelligent software, and secure systems
+- 🛠️ I enjoy taking ideas from data and models to APIs, interfaces, and deployable products
+- 🤝 Open to **software engineering and AI/ML internships, research collaborations, full-time opportunities, and freelance projects**
+- 📍 Based at IIT Tirupati, India
 
-🤖 Building end-to-end agentic AI systems involving LLMs, RAG, document processing, and computer vision
+## Experience
 
-🧠 Interested in trustworthy human–AI collaboration, intelligent software, and secure systems
+### Research Intern — Clemson University
 
-🛠️ I enjoy taking ideas from data and models to APIs, interfaces, and deployable products
+**Aug 2026 – Present**
 
-🤝 Open to software engineering and AI/ML internships, research collaborations, full-time opportunities, and freelance projects
+- Working with Prof. Kapil Chalil Madathil on modeling cognitive fatigue in human–AI teaming systems
+- Studying how fatigue affects human performance, workload, and trust in human–AI teams
+- Developing Python workflows for data processing and analysis and contributing to simulator development
 
-📍 Based at IIT Tirupati, India
+### Agentic AI Intern — DeepDristi Pvt. Ltd.
 
-# Experience
+**May 2026 – Present**
 
-Research Intern — Clemson University
+- Building end-to-end AI-powered software systems for real-world applications
+- Developing pipelines involving LLMs, RAG, document processing, and computer vision
+- Integrating AI models with backend APIs and scalable application workflows
 
-Aug 2026 – Present
+## Featured Projects
 
-Working with Prof. Kapil Chalil Madathil on modeling cognitive fatigue in human–AI teaming systems
-
-Studying how fatigue affects human performance, workload, and trust in human–AI teams
-
-Developing Python workflows for data processing and analysis and contributing to simulator development
-
-Agentic AI Intern — DeepDristi Pvt. Ltd.
-
-May 2026 – Present
-
-Building end-to-end AI-powered software systems for real-world applications
-
-Developing pipelines involving LLMs, RAG, document processing, and computer vision
-
-Integrating AI models with backend APIs and scalable application workflows
-
-# Featured Projects
-
-🧠 Cognitive Fatigue Data Consolidator
+### 🧠 [Cognitive Fatigue Data Consolidator](https://github.com/binnuuuu/Cognitive-Fatigue-Data-Consolidator)
 
 Python-based data workflows supporting research on cognitive fatigue in human–AI teaming. The project consolidates experimental data for downstream processing and analysis.
 
-Python Data Processing Research Software Human–AI Teaming
+`Python` `Data Processing` `Research Software` `Human–AI Teaming`
 
-👁️ VisionOps AI
+### 👁️ [VisionOps AI](https://github.com/binnuuuu/VisionOps-AI)
 
 A computer-vision inspection and digital-twin platform for detecting defects in pharmaceutical tablets, capsules, and blister packs. It combines real-time inspection, a 3D production visualization, batch analytics, and model management.
 
-Python FastAPI React Three.js Computer Vision WebSockets Docker
+`Python` `FastAPI` `React` `Three.js` `Computer Vision` `WebSockets` `Docker`
 
-📄 PatentHub
+### 📄 PatentHub
 
 An AI-powered patent analysis platform that ingests patent PDFs, extracts structured information, and provides citation-backed question answering through semantic retrieval.
 
-React FastAPI Python Qdrant SQLite RAG Vector Search Docker
-
-🌱 Eco Auction Website
-
-A multiplayer auction platform designed to encourage environmentally friendly decisions through real-time bidding, eco-impact points, quizzes, and leaderboards.
-
-Node.js Express.js PostgreSQL Socket.io JavaScript Render
-
-Technical Skills
-
-Area
-
-# Technologies
-
-Programming
-
-C, C++, Python, JavaScript, SQL, Assembly
-
-AI & ML
-
-LLMs, Agentic AI, RAG pipelines, LangChain, Computer Vision, Vector Databases
-
-Backend
-
-FastAPI, Flask, Node.js, Express.js, REST APIs, WebSockets
-
-Frontend
-
-React, Three.js, HTML, CSS
-
-Databases
-
-PostgreSQL, MongoDB, SQLite, Qdrant
-
-Tools & Platforms
-
-Git, Docker, Linux, Jupyter Notebook, Render, Figma
+`React` `FastAPI` `Python` `Qdrant` `SQLite` `RAG` `Vector Search` `Docker`
 
 
-Let's Connect
+
+
+## GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=binnuuuu&show_icons=true&hide_border=true&theme=transparent" alt="Binnu's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnuuuu&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+</p>
+
+> The language card reflects public repository composition, not overall proficiency.
+
+## Let's Connect
 
 I'm open to conversations about software engineering, applied AI, research, and collaborative projects.
 
-LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/binnu-chowdary-4b985828a)
+- [GitHub](https://github.com/binnuuuu)
+- [Email](mailto:cs23b037@iittp.ac.in)
 
-GitHub
-
-Email
-
-Phone: +91 75697 17990
+---
 
 <p align="center"><em>Building intelligent systems with practical impact.</em></p>
+```
