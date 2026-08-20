@@ -36,7 +36,7 @@ A computer-vision inspection and digital-twin platform for detecting defects in 
 
 `Python` `FastAPI` `React` `Three.js` `Computer Vision` `WebSockets` `Docker`
 
-### 📄 PatentHub
+### 📄 PatentHub(https://github.com/binnuuuu/PatentHub)
 
 An AI-powered patent analysis platform that ingests patent PDFs, extracts structured information, and provides citation-backed question answering through semantic retrieval.
 
