@@ -35,7 +35,7 @@ location:    IIT Tirupati, India
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔬 What I'm Doing
 - Researching **cognitive fatigue in human–AI teaming systems**
@@ -43,14 +43,9 @@ location:    IIT Tirupati, India
 - Shipping ideas from data & models → APIs → interfaces → deployable products
 
 </td>
-<td width="50%" valign="top">
 
-### 🎓 Beyond the Code
-- 🌱 NSS Coordinator
-- 🎭 Cultural Council Core Member
-- 📸 Photography & Films Club Core Member
 
-</td>
+
 </tr>
 </table>
 
