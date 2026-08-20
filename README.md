@@ -46,10 +46,7 @@ location:    IIT Tirupati, India
 </tr>
 </table>
 
-### 🎓 Beyond the Code
-- 🌱 NSS Coordinator
-- 🎭 Cultural Council Core Member
-- 📸 Photography & Films Club Core Member
+
 
 <br/>
 
