@@ -35,18 +35,21 @@ location:    IIT Tirupati, India
 
 <table>
 <tr>
-<td width="100%" >
+<td width="100%" valign="top">
 
 ### 🔬 What I'm Doing
 - Researching **cognitive fatigue in human–AI teaming systems**
 - Building end-to-end **agentic AI systems** — LLMs, RAG, document processing, computer vision
 - Shipping ideas from data & models → APIs → interfaces → deployable products
 
-
-
-
+</td>
 </tr>
 </table>
+
+### 🎓 Beyond the Code
+- 🌱 NSS Coordinator
+- 🎭 Cultural Council Core Member
+- 📸 Photography & Films Club Core Member
 
 <br/>
 
