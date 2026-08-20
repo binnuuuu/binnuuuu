@@ -42,7 +42,6 @@ location:    IIT Tirupati, India
 - Building end-to-end **agentic AI systems** — LLMs, RAG, document processing, computer vision
 - Shipping ideas from data & models → APIs → interfaces → deployable products
 
-</td>
 
 
 
