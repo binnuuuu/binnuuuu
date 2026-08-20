@@ -24,11 +24,6 @@ I'm a B.Tech. Computer Science and Engineering student at the **Indian Institute
 
 ## Featured Projects
 
-### 🧠 [Cognitive Fatigue Data Consolidator](https://github.com/binnuuuu/Cognitive-Fatigue-Data-Consolidator)
-
-Python-based data workflows supporting research on cognitive fatigue in human–AI teaming. The project consolidates experimental data for downstream processing and analysis.
-
-`Python` `Data Processing` `Research Software` `Human–AI Teaming`
 
 ### 👁️ [VisionOps AI](https://github.com/binnuuuu/VisionOps-AI)
 
@@ -42,7 +37,11 @@ An AI-powered patent analysis platform that ingests patent PDFs, extracts struct
 
 `React` `FastAPI` `Python` `Qdrant` `SQLite` `RAG` `Vector Search` `Docker`
 
+### 🧠 [Cognitive Fatigue Data Consolidator](https://github.com/binnuuuu/Cognitive-Fatigue-Data-Consolidator)
 
+Python-based data workflows supporting research on cognitive fatigue in human–AI teaming. The project consolidates experimental data for downstream processing and analysis.
+
+`Python` `Data Processing` `Research Software` `Human–AI Teaming`
 
 
 ## Let's Connect
